@@ -1,2 +1,2 @@
 # personal
-ijust create repo is for testing.
+i just create repo is for testing.
